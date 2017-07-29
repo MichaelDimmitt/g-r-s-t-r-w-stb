@@ -1,4 +1,13 @@
 ![decomposing_scaf](https://user-images.githubusercontent.com/11463275/28737691-b0109d00-73bd-11e7-8b3a-c4307364ab04.png)
+<pre>
+bundle --> Gemfile
+rails s --> config/, bin/
+rake db:migrate --> db/
+rake --> Rakefile, test/
+
+beginners can match commands to files!
+cool lightning talk? or dumb?
+</pre>
 
 ## Step 1 decompose a Rails scaffold 
 <pre>
